@@ -57,6 +57,12 @@ We used a **TF-IDF vectorizer + Logistic Regression classifier** from `scikit-le
 
 This approach is lightweight, explainable, and effective for small to medium-scale NLP use cases.
 
+To run the Streamlit chatbot:
+```bash
+pip install -r requirements.txt
+python train_model.py
+streamlit run app.py
+
 ---
 
 ## 💬 Sample Test Conversations
