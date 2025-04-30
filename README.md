@@ -63,4 +63,29 @@ This approach is lightweight, explainable, and effective for small to medium-sca
 
 Below are example conversations and how the chatbot responds:
 
+### 👋 Greetings
+You: Hello
+Bot: Hello! Welcome to ShopFast! How can I assist you today? We offer a wide range of clothing, electronics, and accessories.
+
+### 📦 Order Tracking
+You: Where is my order?
+Bot: Please share your order ID to help track your package.
+
 ### 🔁 Return & Refund (Multi-turn)
+You: I want to return my Nike shoes
+Bot: Sure, I can help you return your item. Could you please share your order number?
+
+You: 23413
+Bot: Got it. Could you also tell me the name or description of the item you want to return?
+
+You: Nike Air Max
+Bot: Thanks. When did you purchase the item? (e.g., March 12, 2024)
+
+You: March 1, 2024
+Bot: And lastly, do you still have the bill or receipt? (Yes/No)
+
+You: Yes
+Bot: Thank you. Your return request for Nike Air Max (Order #23413) from March 1, 2024 has been initiated. Receipt Available: Yes. Our team will reach out shortly.
+
+![image](https://github.com/user-attachments/assets/6a8852cf-ebf7-4fa1-a3ce-cddca375b5fd)
+
